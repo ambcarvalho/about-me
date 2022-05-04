@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Angelo Carvalho
+- 👋 Hi, I’m Angelo Carvalho.
 - 👀 I’m interested in back-end.
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 https://www.linkedin.com/in/angelomoises
 
