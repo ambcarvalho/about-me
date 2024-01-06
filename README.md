@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Angelo Carvalho.
 - 👀 I’m interested in Angular.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on projects.
+- 🤝🏻 I’m looking to collaborate on projects.
 - 📫 https://www.linkedin.com/in/angelomoises
 
 <!---
